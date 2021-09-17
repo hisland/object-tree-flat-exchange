@@ -1,0 +1,21 @@
+{
+  "name": "object-tree-flat-exchange",
+  "version": "1.0.0",
+  "main": "out.js",
+  "module": "index.js",
+  "scripts": {},
+  "keywords": [
+    "object-tree",
+    "nest-object",
+    "dot-sep-key"
+  ],
+  "description": "object-tree to one level object, or rollback, see README and source code for more",
+  "author": {
+    "name": "hisland",
+    "email": "hisland@qq.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash.isplainobject": "^4.0.6"
+  }
+}
